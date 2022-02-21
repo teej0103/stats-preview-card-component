@@ -20,6 +20,11 @@ footer {
     margin-top: auto;
 }
 
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
 .card {
     display: flex;
     background-color: #1b1938;
